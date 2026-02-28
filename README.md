@@ -1,1 +1,7 @@
-Processo de criação de aplicativos, desenvolvimento de projeto ifood, react - native
+Aplicativo desenvolvido em React Native simulando interface do Ifood.
+
+# Tecnologias
+- React Native
+- Expo
+- JavaScript
+
