@@ -8,9 +8,7 @@ O projeto recria elementos visuais comuns do aplicativo, como lista de restauran
 
 ✨ Interface inspirada no aplicativo do iFood
 📋 Listagem de restaurantes
-🖼️ Banners promocionais
-📱 Layout responsivo para dispositivos móveis
-🧩 Estrutura baseada em componentes reutilizáveis
+--
 
 🛠 Tecnologias
 
