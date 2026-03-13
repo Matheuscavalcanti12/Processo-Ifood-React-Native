@@ -4,9 +4,11 @@ Um aplicativo mobile desenvolvido em React Native que simula a interface do iFoo
 
 O projeto recria elementos visuais comuns do aplicativo, como lista de restaurantes, banners e layout moderno, proporcionando experiência semelhante ao app real.
 
-🚀 Funcionalidades
+
 
 ✨ Interface inspirada no aplicativo do iFood
+
+
 📋 Listagem de restaurantes
 --
 
