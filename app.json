@@ -1,7 +1,11 @@
 {
   "expo": {
     "name": "ds3---aulas",
+<<<<<<< HEAD
     "slug": "snack-c45b246e-5e41-4b4f-a083-b8184b3041c5",
+=======
+    "slug": "snack-7ce6ba72-f2c8-4e99-b4e7-8d60211cb0c5",
+>>>>>>> 068a8d55f2869eb94b815a5404157b81d5e16d38
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

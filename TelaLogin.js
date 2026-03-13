@@ -1,11 +1,16 @@
+<<<<<<< HEAD
 import React, { useState } from "react";
 
 import { 
   Alert,
+=======
+import { 
+>>>>>>> 068a8d55f2869eb94b815a5404157b81d5e16d38
   View, 
   Text, 
   Image, 
   TextInput, 
+<<<<<<< HEAD
   StyleSheet,
   Button
 } from 'react-native';
@@ -29,6 +34,13 @@ export default function TelaLogin() {
 
 }
 
+=======
+  Pressable, 
+  StyleSheet 
+} from 'react-native';
+
+export default function TelaLogin() {
+>>>>>>> 068a8d55f2869eb94b815a5404157b81d5e16d38
   return (
     <View style={[styles.container, styles.borda]}>
       
@@ -47,6 +59,7 @@ export default function TelaLogin() {
 
       <TextInput
         style={[styles.input, styles.borda]}
+<<<<<<< HEAD
         placeholder="Email"
         value={usuario}
         onChangeText={setUsuario}
@@ -58,14 +71,31 @@ export default function TelaLogin() {
         placeholder="Senha"
         value={senha}
         onChangeText={setSenha}
+=======
+        //mostrar mensagem dentro do bloco de input 
+        placeholder="Email"
+        placeholderTextColor="#999"
+      />
+
+      <TextInput style={[styles.input, styles.borda]}
+        placeholder="Senha"
+>>>>>>> 068a8d55f2869eb94b815a5404157b81d5e16d38
         placeholderTextColor="#999"
         secureTextEntry
       />
 
+<<<<<<< HEAD
       <Button
         title="Login"
         onPress={LoginUsuario}
       />
+=======
+      <Pressable style={[styles.button, styles.borda]}>
+        <Text style={[styles.buttonText, styles.borda]}>
+          Entrar
+        </Text>
+      </Pressable>
+>>>>>>> 068a8d55f2869eb94b815a5404157b81d5e16d38
 
       <Text style={[styles.footerText, styles.borda]}>
         Esqueceu sua senha?
@@ -75,6 +105,11 @@ export default function TelaLogin() {
   );
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 068a8d55f2869eb94b815a5404157b81d5e16d38
 const styles = StyleSheet.create({
   container: {
     flex: 1,
