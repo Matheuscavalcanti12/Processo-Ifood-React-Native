@@ -10,6 +10,7 @@ O projeto recria elementos visuais comuns do aplicativo, como lista de restauran
 
 
 📋 Listagem de restaurantes
+
 --
 
 🛠 Tecnologias
